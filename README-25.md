@@ -9,4 +9,4 @@ If the condition evaluates to False, the if statement/condition will not be exec
 a condition where ***if*** the statement is **True** then the code in the ***if*** will be executed, but if the value is **False** then the code in the ***else*** will be executed.
 
 ### *elif* Condition
-With elif we can create program code that will select several possibilities that can occur. Almost the same as the ***else*** condition, the difference is that the ***elif*** condition can be many and not just one.
+With ***elif*** we can create program code that will select several possibilities that can occur. Almost the same as the ***else*** condition, the difference is that the ***elif*** condition can be many and not just one.
